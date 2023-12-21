@@ -44,3 +44,13 @@ m.kolesa.kz
 krisha.kz
 api.avtoelon.uz
 redoxengine.com
+custody.coinbase.com
+prime.coinbase.com
+coinbase.com
+pro.coinbase.com
+org.toshi
+org.toshi.distribution
+org.toshi.distribution
+api.coinbase.com
+cloud.coinbase.com
+international.coinbase.com
