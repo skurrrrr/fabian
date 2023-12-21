@@ -1,0 +1,6 @@
+discord:
+  - id: "crawl"
+    discord_channel: "crawl"
+    discord_username: "fabian"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/1179243825693196410/akhni7EAI_MnaWDLLxy5hqq8jZEjeAfjxBL3nDm0LNvyrtkW2zipgEbH_C8cs6kYFWZe"
