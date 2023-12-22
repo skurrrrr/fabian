@@ -54,3 +54,4 @@ org.toshi.distribution
 api.coinbase.com
 cloud.coinbase.com
 international.coinbase.com
+airbnb.com
