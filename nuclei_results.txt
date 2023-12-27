@@ -1,0 +1,105 @@
+[options-method] [http] [info] https://app.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://app-staging.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://api-staging.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://api.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://blog.23andme.com [GET,HEAD]
+[options-method] [http] [info] https://campaign-manager.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://email.gitlab.com [GET,HEAD,OPTIONS]
+[options-method] [http] [info] https://glchat.prototype.gitlab.com [OPTIONS, GET, HEAD]
+[options-method] [http] [info] https://go-staging.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://go.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://manager-staging.community.gitlab.com [GET,HEAD]
+[options-method] [http] [info] https://partners.gitlab.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://search.advisories.gitlab.com [GET]
+[google-floc-disabled] [http] [info] https://advisories.gitlab.com
+[httponly-cookie-detect] [http] [info] https://api-staging.community.gitlab.com
+[apache-detect] [http] [info] https://api-staging.community.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://api-staging.community.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://api.community.gitlab.com
+[apache-detect] [http] [info] https://api.community.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://api.community.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://app-staging.community.gitlab.com
+[apache-detect] [http] [info] https://app-staging.community.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://app-staging.community.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://app.community.gitlab.com
+[apache-detect] [http] [info] https://app.community.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://app.community.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://campaign-manager.gitlab.com
+[apache-detect] [http] [info] https://campaign-manager.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://campaign-manager.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://blog.23andme.com
+[httponly-cookie-detect] [http] [info] https://chef.gitlab.com
+[httponly-cookie-detect] [http] [info] https://codesuggestions.gitlab.com
+[httponly-cookie-detect] [http] [info] https://customers.staging.gitlab.com
+[httponly-cookie-detect] [http] [info] https://cinc.gitlab.com
+[httponly-cookie-detect] [http] [info] https://customers.gitlab.com
+[httponly-cookie-detect] [http] [info] https://customers.staging-ref.gitlab.com
+[httponly-cookie-detect] [http] [info] https://content.gitlab.com
+[xss-deprecated-header] [http] [info] https://content.gitlab.com [1; mode=block]
+[google-floc-disabled] [http] [info] https://developer.gitlab.com
+[google-floc-disabled] [http] [info] https://doc.gitlab.com
+[httponly-cookie-detect] [http] [info] https://doc.gitlab.com
+[google-floc-disabled] [http] [info] https://docs.gitlab.com
+[httponly-cookie-detect] [http] [info] https://email.customers.gitlab.com
+[httponly-cookie-detect] [http] [info] https://email.gitlab.com
+[httponly-cookie-detect] [http] [info] https://federal-support.gitlab.com
+[nginx-version] [http] [info] https://glchat.prototype.gitlab.com [nginx/1.18.0]
+[google-floc-disabled] [http] [info] https://gitlab.com
+[httponly-cookie-detect] [http] [info] https://gitlab.com
+[xss-deprecated-header] [http] [info] https://gitlab.com [1; mode=block]
+[google-floc-disabled] [http] [info] https://geo.staging-ref.gitlab.com
+[xss-deprecated-header] [http] [info] https://geo.staging-ref.gitlab.com [1; mode=block]
+[addeventlistener-detect] [http] [info] https://forum.gitlab.com
+[httponly-cookie-detect] [http] [info] https://go.gitlab.com
+[httponly-cookie-detect] [http] [info] https://go-staging.community.gitlab.com
+[addeventlistener-detect] [http] [info] https://glcodesuggestion.prototype.gitlab.com
+[nginx-version] [http] [info] https://glcodesuggestion.prototype.gitlab.com [nginx/1.18.0]
+[google-floc-disabled] [http] [info] https://ilt.gitlabtraining.cloud
+[xss-deprecated-header] [http] [info] https://ilt.gitlabtraining.cloud [1; mode=block]
+[google-floc-disabled] [http] [info] https://handbook.gitlab.com
+[google-floc-disabled] [http] [info] https://internal.gitlab.com
+[httponly-cookie-detect] [http] [info] https://internal.gitlab.com
+[switch-protocol] [http] [info] https://kas.gitlab.com [websocket]
+[switch-protocol] [http] [info] https://kas.staging.gitlab.com [websocket]
+[httponly-cookie-detect] [http] [info] https://learn.gitlab.com
+[xss-deprecated-header] [http] [info] https://links.gitlab.com [1; mode=block]
+[aws-cloudfront-service] [http] [info] https://links.gitlab.com
+[httponly-cookie-detect] [http] [info] https://manager-staging.community.gitlab.com
+[apache-detect] [http] [info] https://manager-staging.community.gitlab.com [Apache/2.4.52 (Ubuntu)]
+[php-detect] [http] [info] https://manager-staging.community.gitlab.com [8.2.0]
+[httponly-cookie-detect] [http] [info] https://levelup.gitlab.com
+[google-floc-disabled] [http] [info] https://next.staging.gitlab.com
+[google-floc-disabled] [http] [info] https://next.gitlab.com
+[addeventlistener-detect] [http] [info] https://metrics.gitlab.com
+[google-floc-disabled] [http] [info] https://metrics.gitlab.com
+[httponly-cookie-detect] [http] [info] https://page.gitlab.com
+[httponly-cookie-detect] [http] [info] https://partners.gitlab.com
+[xss-deprecated-header] [http] [info] https://partners.gitlab.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://partnerflash.gitlab.com
+[xss-deprecated-header] [http] [info] https://partnerflash.gitlab.com [1; mode=block]
+[addeventlistener-detect] [http] [info] https://pb.deribit.com
+[nginx-version] [http] [info] https://pb.deribit.com [nginx/1.25.2]
+[google-floc-disabled] [http] [info] https://pre.gitlab.com
+[xss-deprecated-header] [http] [info] https://pre.gitlab.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://research.23andme.com
+[aws-cloudfront-service] [http] [info] https://research.23andme.com
+[google-frontend-httpserver] [http] [info] https://search.advisories.gitlab.com
+[xss-deprecated-header] [http] [info] https://scim.gitlab.com [1; mode=block]
+[google-floc-disabled] [http] [info] https://slippers.gitlab.com
+[email-extractor] [http] [info] https://shop.gitlab.com [ssporer@boundlessnetwork.com]
+[httponly-cookie-detect] [http] [info] https://shop.gitlab.com
+[google-floc-disabled] [http] [info] https://spt.gitlabtraining.cloud
+[xss-deprecated-header] [http] [info] https://spt.gitlabtraining.cloud [1; mode=block]
+[google-floc-disabled] [http] [info] https://staging-ref.gitlab.com
+[xss-deprecated-header] [http] [info] https://staging-ref.gitlab.com [1; mode=block]
+[aws-cloudfront-service] [http] [info] https://status.gitlab.com
+[httponly-cookie-detect] [http] [info] https://support.gitlab.com
+[httponly-cookie-detect] [http] [info] https://therapeutics.23andme.com
+[email-extractor] [http] [info] https://translate.gitlab.com [476192f57fb74aa7a0d8d0e522e1eacb@sentry.io]
+[httponly-cookie-detect] [http] [info] https://translate.gitlab.com
+[xss-deprecated-header] [http] [info] https://translate.gitlab.com [1; mode=block]
+[detect-sentry] [http] [info] https://translate.gitlab.com [https://476192f57fb74aa7a0d8d0e522e1eacb@sentry.io/3048813]
+[openresty-detect] [http] [info] https://translate.gitlab.com
+[google-floc-disabled] [http] [info] https://workshop.gitlabtraining.cloud
+[xss-deprecated-header] [http] [info] https://workshop.gitlabtraining.cloud [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://version.gitlab.com

@@ -1,0 +1,110 @@
+[options-method] [http] [info] https://aspectwfm.pdc.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://aspectmobile.stage.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://aspectmobile.pdc.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://eaglehubpartnersstage.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://eaglehubaffiliatesstage.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://fly.stage.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://l.mail.ms.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://s.mail.ms.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://sg.azne.bags.aa.com [GET, HEAD]
+[options-method] [http] [info] https://sg.azpe.bags.aa.com [GET, HEAD]
+[options-method] [http] [info] https://w.mail.ms.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[options-method] [http] [info] https://x.mail.ms.aa.com [OPTIONS, TRACE, GET, HEAD, POST]
+[httponly-cookie-detect] [http] [info] https://14.admin-lite.airbnb.com
+[httponly-cookie-detect] [http] [info] https://aamk.admin-lite-next.airbnb.com
+[httponly-cookie-detect] [http] [info] https://api.admin.airbnb.com
+[xss-deprecated-header] [http] [info] https://api.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://apm-k8s.aa.com
+[xss-deprecated-header] [http] [info] https://apm-k8s.aa.com [1; mode=block]
+[dynatrace-login] [http] [info] https://apm.aa.com
+[addeventlistener-detect] [http] [info] https://apm.aa.com
+[httponly-cookie-detect] [http] [info] https://apm.aa.com
+[xss-deprecated-header] [http] [info] https://apm.aa.com [1; mode=block]
+[aws-bucket-service] [http] [info] https://assets.airbnb.com
+[default-windows-server-page] [http] [info] https://aspectwfm.pdc.aa.com
+[microsoft-iis-version] [http] [info] https://aspectwfm.pdc.aa.com [Microsoft-IIS/10.0]
+[default-windows-server-page] [http] [info] https://aspectmobile.stage.aa.com
+[default-windows-server-page] [http] [info] https://aspectmobile.pdc.aa.com
+[nginx-version] [http] [info] https://aspectmobile.stage.aa.com [nginx/1.25.1]
+[httponly-cookie-detect] [http] [info] https://beispiel.admin-lite-next.airbnb.com
+[httponly-cookie-detect] [http] [info] https://chef.admin-lite.airbnb.com
+[httponly-cookie-detect] [http] [info] https://devthai.admin.airbnb.com
+[addeventlistener-detect] [http] [info] https://de.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://de.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://dqbo.admin-next.airbnb.com
+[xss-deprecated-header] [http] [info] https://enginemanuals.psa.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://es.admin.airbnb.com
+[addeventlistener-detect] [http] [info] https://el.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://el.next.airbnb.com [1; mode=block]
+[addeventlistener-detect] [http] [info] https://es.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://es.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://fls-thai.admin.airbnb.com
+[addeventlistener-detect] [http] [info] https://fr.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://fr.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://groups.payment.stage.aa.com
+[microsoft-iis-version] [http] [info] https://groups.payment.stage.aa.com [Microsoft-IIS/10.0]
+[httponly-cookie-detect] [http] [info] https://groups.stage.aa.com
+[addeventlistener-detect] [http] [info] https://hu.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://hu.next.airbnb.com [1; mode=block]
+[addeventlistener-detect] [http] [info] https://id.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://id.next.airbnb.com [1; mode=block]
+[microsoft-iis-version] [http] [info] https://ipas-admin.aa.com [Microsoft-IIS/10.0]
+[microsoft-iis-version] [http] [info] https://ipas.aa.com [Microsoft-IIS/10.0]
+[addeventlistener-detect] [http] [info] https://it.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://it.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://k12.admin.airbnb.com
+[addeventlistener-detect] [http] [info] https://ja.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://ja.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://l.mail.ms.aa.com
+[httponly-cookie-detect] [http] [info] https://maintenix.psa.aa.com
+[httponly-cookie-detect] [http] [info] https://napi.admin.airbnb.com
+[basic-auth-detect] [http] [info] https://news.next.airbnb.com [Basic realm="Private Site"]
+[xss-deprecated-header] [http] [info] https://remote.workspace.aa.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://remote.workspacestage.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://sagelabs.admin.airbnb.com
+[httponly-cookie-detect] [http] [info] https://s.mail.ms.aa.com
+[addeventlistener-detect] [http] [info] https://ru.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://ru.next.airbnb.com [1; mode=block]
+[couchbase-sync-gateway] [http] [info] https://sg.azne.bags.aa.com [3.0.3(1;8187d9a)]
+[couchbase-sync-gateway] [http] [info] https://sg.azpe.bags.aa.com [3.0.3(1;8187d9a)]
+[httponly-cookie-detect] [http] [info] https://simquestapi.aa.com
+[httponly-cookie-detect] [http] [info] https://simquest-stage.aa.com
+[httponly-cookie-detect] [http] [info] https://simquestwp-stage.aa.com
+[httponly-cookie-detect] [http] [info] https://simquestapi-stage.aa.com
+[xss-deprecated-header] [http] [info] https://stage.enginemanuals.psa.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://stage.maintenix.psa.aa.com
+[addeventlistener-detect] [http] [info] https://th.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://th.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://train.maintenix.psa.aa.com
+[addeventlistener-detect] [http] [info] https://tl.next.airbnb.com
+[httponly-cookie-detect] [http] [info] https://uagzncusn.aa.com
+[xss-deprecated-header] [http] [info] https://uagzncusn.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://uagzeusn.aa.com
+[xss-deprecated-header] [http] [info] https://uagzeusn.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://uat.maintenix.psa.aa.com
+[xss-deprecated-header] [http] [info] https://tl.next.airbnb.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://us.isit.admin.airbnb.com
+[httponly-cookie-detect] [http] [info] https://w.mail.ms.aa.com
+[xss-deprecated-header] [http] [info] https://workspacedfwstg.aa.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://workspacestage.aa.com [1; mode=block]
+[httponly-cookie-detect] [http] [info] https://x.mail.ms.aa.com
+[addeventlistener-detect] [http] [info] https://zelda-support-iapi.lobster.kraken.com
+[httponly-cookie-detect] [http] [info] https://zelda-support-iapi.lobster.kraken.com
+[addeventlistener-detect] [http] [info] https://xx.next.airbnb.com
+[addeventlistener-detect] [http] [info] https://xxlong.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://xxlong.next.airbnb.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://xx.next.airbnb.com [1; mode=block]
+[addeventlistener-detect] [http] [info] https://xxmix.next.airbnb.com
+[addeventlistener-detect] [http] [info] https://zh-t.next.airbnb.com
+[addeventlistener-detect] [http] [info] https://zh.next.airbnb.com
+[xss-deprecated-header] [http] [info] https://zh-t.next.airbnb.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://xxmix.next.airbnb.com [1; mode=block]
+[xss-deprecated-header] [http] [info] https://zh.next.airbnb.com [1; mode=block]
+[weblogic-login] [http] [info] https://maintenix.psa.aa.com/console/login/LoginForm.jsp [12.2.1.4.0]
+[CVE-2020-2551] [http] [critical] https://maintenix.psa.aa.com/console/login/LoginForm.jsp
+[weblogic-login] [http] [info] https://stage.maintenix.psa.aa.com/console/login/LoginForm.jsp [12.2.1.4.0]
+[CVE-2020-2551] [http] [critical] https://stage.maintenix.psa.aa.com/console/login/LoginForm.jsp
+[weblogic-login] [http] [info] https://train.maintenix.psa.aa.com/console/login/LoginForm.jsp [12.2.1.4.0]
+[CVE-2020-2551] [http] [critical] https://train.maintenix.psa.aa.com/console/login/LoginForm.jsp
+[weblogic-login] [http] [info] https://uat.maintenix.psa.aa.com/console/login/LoginForm.jsp [12.2.1.4.0]
+[CVE-2020-2551] [http] [critical] https://uat.maintenix.psa.aa.com/console/login/LoginForm.jsp
